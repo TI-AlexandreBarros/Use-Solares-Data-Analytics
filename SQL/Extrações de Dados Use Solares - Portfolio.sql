@@ -1,12 +1,12 @@
 /*
 ====================================================================
-PROJETO: USE SOLARES
+PROJETO: USE SOLARIS
 ARQUIVO: Extrações de Dados - Portfolio
 TECNOLOGIAS: SQL Server / SSMS
 
 Objetivo:
 Consultas utilizadas para extrair indicadores e análises comerciais
-do banco UseSolaresDB para posterior utilização no Power BI.
+do banco UseSolarisDB para posterior utilização no Power BI.
 
 ====================================================================
 */
