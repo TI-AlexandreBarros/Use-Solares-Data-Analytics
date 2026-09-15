@@ -1,8 +1,8 @@
-# Use-Solares
+# Use-Solaris
 Projeto de análise comercial desenvolvido com SQL Server e Power BI, simulando uma loja de moda feminina.
 
 ## 📊 Sobre o projeto
-O Use Solares é um projeto de análise comercial desenvolvido com SQL Server e Power BI, simulando o cenário de uma loja de moda feminina.
+O Use Solaris é um projeto de análise comercial desenvolvido com SQL Server e Power BI, simulando o cenário de uma loja de moda feminina.
 O objetivo do projeto é transformar dados de vendas em informações para acompanhamento de faturamento, pedidos, produtos, clientes, lojas, funcionários e localização, permitindo uma visão mais clara do desempenho comercial.
 O projeto foi desenvolvido desde a estruturação e consulta dos dados no SQL Server, passando pela criação de consultas e Views para extração das informações, até a construção do dashboard no Power BI.
 
@@ -12,7 +12,7 @@ O projeto foi desenvolvido desde a estruturação e consulta dos dados no SQL Se
 - PowerPoint — criação do template visual
 
 ## 🗄️ Banco de dados
-O banco utilizado no projeto é o UseSolaresDB, contendo dados fictícios relacionados à operação comercial da loja.
+O banco utilizado no projeto é o UseSolarisDB, contendo dados fictícios relacionados à operação comercial da loja.
 
 Entre as informações analisadas estão:
 
@@ -40,7 +40,7 @@ Apresenta os principais indicadores comerciais, incluindo:
 - Faturamento por categoria
 - Análises por loja
 
- ![Página 1 - Use Solares](screenshots/Pagina%201%20-%20Use%20Solares.png)
+ ![Página 1 - Use Solaris](screenshots/Pagina%201%20-%20Use%20Solares.png)
 
 ## Página 2 — Clientes e Localização
 Apresenta uma visão direcionada à base de clientes:
@@ -52,7 +52,7 @@ Apresenta uma visão direcionada à base de clientes:
 - Top 10 — Faturamento por Cidade
 - Top 10 Clientes por Faturamento
 
- ![Página 2 - Use Solares](screenshots/Pagina%202%20-%20Use%20Solares.png)
+ ![Página 2 - Use Solaris](screenshots/Pagina%202%20-%20Use%20Solares.png)
 
 ## 📌 Principais indicadores
 | Indicador | Resultado |
